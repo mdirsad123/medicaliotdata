@@ -37,5 +37,7 @@ A Cumulative Review On Enabling Search Over The Encrypted Medical Iot Data On Th
 ![Screenshot (134)](https://user-images.githubusercontent.com/120195325/214250125-25891f7b-ba44-4aba-852e-65c582dbb584.png)
 ![Screenshot (135)](https://user-images.githubusercontent.com/120195325/214250140-edcc78c8-52c0-44bf-87bb-63273eac2dee.png)
 ![Screenshot (136)](https://user-images.githubusercontent.com/120195325/214250152-df54ee9c-e5bc-42b4-bf91-d0ff24a0732e.png)
-![Screenshot (137)](https://user-images.githubusercontent.com/12019![Screenshot (138)](https://user-images.githubusercontent.com/120195325/214250171-25a00e72-6c7a-4c83-8e7a-560990150825.png)
-5325/214250165-af0ac53c-09f5-4a45-83bb-030ab95cee0e.png)
+
+![Screenshot (137)](https://user-images.githubusercontent.com/120195325/214250692-429ffbf7-9f76-4a13-a201-d8a740ea8631.png)
+
+![Screenshot (138)](https://user-images.githubusercontent.com/120195325/214250739-241bd23c-43b6-4dfb-9571-4d18ad318a9f.png)
